@@ -1,9 +1,9 @@
-XHTML Header: <script src="AGB/js/jquery-1.8.1.min.js"></script>
-XHTML Header: <script src="AGB/js/jquery-ui-1.8.23.custom.min.js"></script>
-XHTML Header: <script src="AGB/js/activity-grid.js"></script>
-XHTML Header: <link rel="stylesheet" type="text/css" href="AGB/css/activity-grid.css" />
+XHTML Header: <script src="Activity-Grid-Builder/js/jquery-1.8.1.min.js"></script>
+XHTML Header: <script src="Activity-Grid-Builder/js/jquery-ui-1.8.23.custom.min.js"></script>
+XHTML Header: <script src="Activity-Grid-Builder/js/activity-grid.js"></script>
+XHTML Header: <link rel="stylesheet" type="text/css" href="Activity-Grid-Builder/css/activity-grid.css" />
 
-# The Activity Grid
+# Zone - The Activity Grid
 
 1. Call my Contacts
 	1. Select Contacts to Call
