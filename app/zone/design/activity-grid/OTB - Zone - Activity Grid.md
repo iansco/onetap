@@ -1,7 +1,7 @@
-XHTML Header: <script src="Activity-Grid-Builder/js/jquery-1.8.1.min.js"></script>
-XHTML Header: <script src="Activity-Grid-Builder/js/jquery-ui-1.8.23.custom.min.js"></script>
-XHTML Header: <script src="Activity-Grid-Builder/js/activity-grid.js"></script>
-XHTML Header: <link rel="stylesheet" type="text/css" href="Activity-Grid-Builder/css/activity-grid.css" />
+XHTML Header: <script src="builder/js/jquery-1.8.1.min.js"></script>
+XHTML Header: <script src="builder/js/jquery-ui-1.8.23.custom.min.js"></script>
+XHTML Header: <script src="builder/js/activity-grid.js"></script>
+XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-grid.css" />
 
 # Zone - The Activity Grid
 
