@@ -12,7 +12,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **OR**
 		1. **COMMON** [DisplayContactGroup][]
 		1. **COMMON** [FindContacts][]
-	1. Identify Suitable Time to Call
+	1. Identify whether Now is a Suitable Time to Call
 		1. **COMMON** [ViewContacts][]
 		1. **COMMON** **AND/OR** [CheckAvailabilityIndicators][]
 		1. **COMMON** **AND/OR** [CheckContactLocalTime][]
@@ -22,8 +22,8 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** **AND/OR** [CheckContactLocalTime][]
 	1. Call Contacts
 		1. **COMMON** [SelectContacts][]
-		1. **COMMON** [SelectPhoneSSM][]
-		1. **COMMON** [MakePhoneCall][]
+		1. [SelectPhoneSSM][]
+		1. [MakePhoneCall][]
 1. Message my Contacts
 	1. Find Contacts to Message
 		1. **COMMON** [DisplayTheHomeScreen][]
@@ -33,12 +33,29 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [FindContacts][]
 	1. Message Contacts
 		1. **COMMON** [SelectContacts][]
-		1. **COMMON** [SelectMessagingSSM][]
-		1. **COMMON** [SendMessage][]
+		1. [SelectMessagingSSM][]
+		1. [SendMessage][]
 1. Send a Meeting Request to my Contacts
-	1. Select Contacts to Send Meeting Request 
+	1. Find Contacts to Send Meeting Request
+		1. **COMMON** [DisplayTheHomeScreen][]
+		1. **COMMON** [FindContacts][]
+		1. **OR**
+		1. **COMMON** [DisplayContactGroup][]
+		1. **COMMON** [FindContacts][] 
 	1. Identify Suitable Time for Meeting
+		1. **COMMON** [ViewContacts][]
+		1. [ChangeTimeViaTimeTravel][]
+		1. **COMMON** **AND/OR** [CheckAvailabilityIndicators][]
+		1. **COMMON** **AND/OR** [CheckContactLocalTime][]
+		1. **OR**
+		1. **COMMON** [DisplayTheContactInfoView][]
+		1. [ChangeTimeViaTimeTravel][]
+		1. **COMMON** **AND/OR** [CheckAvailabilityIndicators][]
+		1. **COMMON** **AND/OR** [CheckContactLocalTime][]
 	1. Send Meeting Request
+		1. **COMMON** [SelectContacts][]
+		1. [SelectMeetingsSSM][]
+		1. [SendMeetingRequest][]
 1. Manage my Contacts
 	1. Add a Contact
 		1. Create a new Contact
@@ -85,6 +102,10 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 			1. Flick Up/Down to Scroll through Contacts
 		1. Display the Contact Info view <a id="DisplayTheContactInfoView"></a>
 			1. Tap + Hold a Contact
+		1. Change Time via Time Travel <a id="ChangeTimeViaTimeTravel"></a>
+			1. Tap the Time Travel button.
+			1. **OR** Slide the Time Travel control right to move the current time forward.
+			1. **OR** Slide the Time Travel control left to move the current time backward.
 		1. Check Availability Indicators <a id="CheckAvailabilityIndicators"></a>
 			1. View Contact Availability Indicators (e.g. red, amber, green).
 		1. Check Contact Local Time <a id="CheckContactLocalTime"></a>
@@ -100,6 +121,18 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 			1. Slide the SSM Left/Right to display the Messaging SSM
 		1. Send a Message <a id="SendMessage"></a>
 			1. Tap the Message button.
+			1. Enter Message content.
+			1. Tap the Send button.
+		1. Select the Meetings SSM <a id="SelectMeetingsSSM"></a>
+			1. Slide the SSM Left/Right to display the Meetings SSM
+		1. Send a Meeting Request <a id="SendMeetingRequest"></a>
+			1. Tap the New Meeting Request button.
+			1. Enter Meeting Request content.
+			1. Tap the Send button.
+
+### List of Issues
+
+1. **General Point on Design Process** - at this point, certain specific UI design details (which controls, their placement, etc) have not yet been decided upon. I see us initially trying to get the basic flow of Activities, Tasks, Actions and Operation down, identifying any 'rough edges' (as per our V1 design) and smoothing them out. At some point, we'll feel ready to begin creating our Interactive Sketching Notation (ISN) diagrams, which is the stage where we'll design out more of the UI, and then I see us iterating around the Activity Grid <-> ISN "loop". When we've got those two things down, I think we'll be well placed to begin prototyping. _Added by Ian._
 
 [DisplayTheHomeScreen]: #DisplayTheHomeScreen "Display the Home Screen"
 [DisplayContactGroup]: #DisplayContactGroup "Display a Contact Group"
@@ -116,7 +149,13 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 [ViewContactsOnTheScratchpad]: #ViewContactsOnTheScratchpad "View Contacts on the Scratchpad"
 [CheckAvailabilityIndicators]: #CheckAvailabilityIndicators "Check Availability Indicators"
 [CheckContactLocalTime]: #CheckContactLocalTime "Check Contact Local Time"
+[ChangeTimeViaTimeTravel]: #ChangeTimeViaTimeTravel "Change Time via Time Travel"
 [SelectPhoneSSM]: #SelectPhoneSSM "Select the Phone SSM"
 [SelectMessagingSSM]: #SelectMessagingSSM "Select the Messaging SSM"
+[SelectMeetingsSSM]: #SelectMeetingsSSM "Select the Meetings SSM"
 [MakePhoneCall]: #MakePhoneCall "Make Phone Call"
 [SendMessage]: #SendMessage "Send a Message"
+[SendMeetingRequest]: #SendMeetingRequest "Send a Meeting Request"
+
+
+
