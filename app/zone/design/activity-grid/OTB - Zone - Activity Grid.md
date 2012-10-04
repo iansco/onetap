@@ -25,8 +25,16 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [SelectPhoneSSM][]
 		1. **COMMON** [MakePhoneCall][]
 1. Message my Contacts
-	1. Select Contacts to Message
+	1. Find Contacts to Message
+		1. **COMMON** [DisplayTheHomeScreen][]
+		1. **COMMON** [FindContacts][]
+		1. **OR**
+		1. **COMMON** [DisplayContactGroup][]
+		1. **COMMON** [FindContacts][]
 	1. Message Contacts
+		1. **COMMON** [SelectContacts][]
+		1. **COMMON** [SelectMessagingSSM][]
+		1. **COMMON** [SendMessage][]
 1. Send a Meeting Request to my Contacts
 	1. Select Contacts to Send Meeting Request 
 	1. Identify Suitable Time for Meeting
@@ -88,6 +96,10 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 			1. Slide the SSM Left/Right to display the Phone SSM
 		1. Make a Phone Call <a id="MakePhoneCall"></a>
 			1. Tap the Call button.
+		1. Select the Messaging SSM <a id="SelectMessagingSSM"></a>
+			1. Slide the SSM Left/Right to display the Messaging SSM
+		1. Send a Message <a id="SendMessage"></a>
+			1. Tap the Message button.
 
 [DisplayTheHomeScreen]: #DisplayTheHomeScreen "Display the Home Screen"
 [DisplayContactGroup]: #DisplayContactGroup "Display a Contact Group"
@@ -105,4 +117,6 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 [CheckAvailabilityIndicators]: #CheckAvailabilityIndicators "Check Availability Indicators"
 [CheckContactLocalTime]: #CheckContactLocalTime "Check Contact Local Time"
 [SelectPhoneSSM]: #SelectPhoneSSM "Select the Phone SSM"
+[SelectMessagingSSM]: #SelectMessagingSSM "Select the Messaging SSM"
 [MakePhoneCall]: #MakePhoneCall "Make Phone Call"
+[SendMessage]: #SendMessage "Send a Message"
