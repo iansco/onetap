@@ -8,6 +8,8 @@ $(document).ready(function() {
 	
 	// Adds an id to the first ordered list element
 	$('ol').first().attr('id','root');
+	// Adds an id to the "issue list" ordered list element
+	$('#listofissues').next('ol').attr('id','issuelist');
 	
 	// Creates the link which toggles child list elements  	
   	var $toggleLink = $('<a></a>', 
