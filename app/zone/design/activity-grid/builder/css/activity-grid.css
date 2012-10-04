@@ -34,7 +34,7 @@ ol#issuelist {
 	counter-reset: issue; padding-left: 0px; margin-left: 0px;
 }
 ol#issuelist li { 
-	display: block; margin: 10px 0 0px 0px; font-weight: normal; border: none; padding-top: 10px; font-size: 100%; line-height: 15px;
+	display: block; margin: 10px 0 0px 0px; font-weight: normal; border: none; padding-top: 10px; font-size: 95%; line-height: 20px;
 }
 
 h3#listofissues {
