@@ -32,7 +32,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **OR**
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [FindContacts][]
-	1. Message Contacts
+	1. Send Message
 		1. **COMMON** [SelectContacts][]
 		1. **COMMON** [SelectPhoneSSM][]
 		1. **COMMON** [SendMessage][]
@@ -64,15 +64,16 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. Send a Meeting Request
 			1. Tap the New Meeting Request button
 			1. Enter Meeting Request content
-			1. Tap the Send button
+			1. **OR** Tap the Send button
+			1. **OR** Tap the Cancel button
 1. Manage Contacts
-	1. Add a Contact
+	1. Add Contact
 		1. **COMMON** [DisplayHome][]
 		1. Create a new Contact
 			1. Tap the Add Contact button
 		1. **COMMON** [EnterData][]
 		1. **COMMON** [SaveOrCancel][]
-	1. View a Contact
+	1. View Contact
 		1. **COMMON** [DisplayHome][]
 		1. **COMMON** [FindContacts][]
 		1. **COMMON** [DisplayContactInfo][]
@@ -80,7 +81,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [FindContacts][]
 		1. **COMMON** [DisplayContactInfo][]
-	1. Edit a Contact
+	1. Edit Contact
 		1. **COMMON** [DisplayHome][]
 		1. **COMMON** [FindContacts][]
 		1. **COMMON** [DisplayContactInfo][]
@@ -94,7 +95,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [EnterData][]
 		1. **COMMON** [SaveOrCancel][]
-	1. Delete a Contact
+	1. Delete Contact
 		1. **COMMON** [DisplayHome][]
 		1. **COMMON** [FindContacts][]
 		1. **COMMON** [DisplayContactInfo][]
@@ -107,20 +108,20 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [DeleteContact][]
 1. Manage Groups
-	1. Create a new Group
+	1. Add Group
 		1. **COMMON** [DisplayHome][]
 		1. Create a new Group
 			1. Tap the Add Group button
 		1. **COMMON** [EnterData][]
 		1. **COMMON** [SaveOrCancel][]
-	1. View a Group
+	1. View Group
 		1. **COMMON** [DisplayGroup][]
-	1. Edit a Group
+	1. Edit Group
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [EnterData][]
 		1. **COMMON** [SaveOrCancel][]
-	1. Delete a Group
+	1. Delete Group
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [DeleteGroup][]
