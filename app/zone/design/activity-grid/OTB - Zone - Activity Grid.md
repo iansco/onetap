@@ -110,6 +110,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 1. Manage Groups
 	1. Add Group
 		1. **COMMON** [DisplayHome][]
+		1. **COMMON** [SelectContacts][]
 		1. Create a new Group
 			1. Tap the Add Group button
 		1. **COMMON** [EnterData][]
