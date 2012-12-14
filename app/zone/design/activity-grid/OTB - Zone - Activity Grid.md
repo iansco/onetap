@@ -126,6 +126,14 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [DeleteGroup][]
+	1. Add Contact
+		1. **COMMON** [EnterEditMode][]
+		1. **COMMON** [SelectContacts][]
+		1. **COMMON** [SaveOrCancel][]
+	1. Remove Contact
+		1. **COMMON** [EnterEditMode][]
+		1. **COMMON** [DeselectContacts][]
+		1. **COMMON** [SaveOrCancel][]
 1. Manage Preferences
 	1. View Preferences
 		1. **COMMON** [DisplayHome][]
@@ -172,8 +180,10 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. Check Contact Time <a id="CheckContactTime"></a>
 			1. View Contact Time
 		1. Select Contacts <a id="SelectContacts"></a>
-			1. **OR** Tap each Contact to select (tap again to de-select)
-			1. **OR** Shake device to select all Contacts (shake again to de-select all)
+			1. **OR** Tap each unselected Contact to select (tap again to deselect)
+			1. **OR** Shake device to select all Contacts (shake again to deselect all)
+		1. Deselect Contacts <a id="DeselectContacts"></a>
+			1. Tap each selected Contact to deselect (tap again to select)
 		1. Select the Phone SSM <a id="SelectPhoneSSM"></a>
 			1. Slide the SSM Left/Right to display the Phone SSM
 		1. Send a Message <a id="SendMessage"></a>
@@ -195,8 +205,8 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 			1. **OR** Tap the Delete Group button again (to confirm delete)
 			1. **OR** Tap the Cancel button
 		1. Save or Cancel <a id="SaveOrCancel"></a>
-			1. **OR** Tap the Done button
-			1. **OR** Tap the Cancel button
+			1. **OR** Tap the Done button to save changes
+			1. **OR** Tap the Cancel button to exit without saving changes
 
 
 ### List of Issues
@@ -209,6 +219,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 [FindContacts]: #FindContacts "Find Contacts"
 [ViewContacts]: #ViewContacts "View Contacts"
 [SelectContacts]: #SelectContacts "Select Contacts"
+[DeselectContacts]: #DeselectContacts "Deselect Contacts"
 [DeleteContact]: #DeleteContact "Delete Contact"
 [DeleteGroup]: #DeleteGroup "Delete Group"
 [EnterData]: #EnterData "Enter Data"
