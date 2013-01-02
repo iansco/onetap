@@ -110,28 +110,43 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 1. Manage Groups
 	1. Add Group
 		1. **COMMON** [DisplayHome][]
+		1. **COMMON** [FindContacts][]
 		1. **COMMON** [SelectContacts][]
 		1. Create a new Group
 			1. Tap the Add Group button
-		1. **COMMON** [EnterData][]
+		1. **COMMON** [SaveOrCancel][]
+		1. **OR**
+		1. **COMMON** [DisplayHome][]
+		1. Create a new Group
+			1. Tap the Add Group button
+		1. **COMMON** [FindContacts][]
+		1. **COMMON** [SelectContacts][]
 		1. **COMMON** [SaveOrCancel][]
 	1. View Group
 		1. **COMMON** [DisplayGroup][]
 	1. Edit Group
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
-		1. **COMMON** [EnterData][]
+		1. **COMMON** [FindContacts][]
+		1. **COMMON** **AND/OR** [SelectContacts][]
+		1. **COMMON** **AND/OR** [DeselectContacts][]
 		1. **COMMON** [SaveOrCancel][]
+	1. Edit Group Name
+		1. Tap + Hold the Group Name
+		1. Edit the Group Name using the iOS keyboard
+		1. Tap the iOS keyboard Done button when finished
 	1. Delete Group
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [DeleteGroup][]
 	1. Add Contact
 		1. **COMMON** [EnterEditMode][]
+		1. **COMMON** [FindContacts][]
 		1. **COMMON** [SelectContacts][]
 		1. **COMMON** [SaveOrCancel][]
 	1. Remove Contact
 		1. **COMMON** [EnterEditMode][]
+		1. **COMMON** [FindContacts][]
 		1. **COMMON** [DeselectContacts][]
 		1. **COMMON** [SaveOrCancel][]
 1. Manage Preferences
@@ -146,12 +161,14 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 1. Common Tasks
 	1. Common Actions
 		1. Display Home <a id="DisplayHome"></a>
-			1. **OR** If you are viewing a Group; Tap the Home button
-			1. **OR** If you are viewing a Contact; Tap the Back button, then _if necessary_, also Tap the Home button (extra step needed only if you were viewing a Contact whilst in _Group_ view)
-			1. **OR** If you are viewing Preferences; Tap the Back Button, then _if necessary_, also Tap the Home button (extra step needed only if you were viewing Preferences whilst in _Group_ view) 
-			1. **OR** If you are editing a Group; Tap the Done or Cancel button and then Tap the Home button			
-			1. **OR** If you are editing a Contact; Tap the Done or Cancel button, Tap the Back button, then _if necessary_, also Tap the Home button (extra step needed only if you were editing a Contact whilst in _Group_ view)
-			1. **OR** If you are editing Preferences; Tap the Done or Cancel button, Tap the Back button, then _if necessary_, also Tap the Home button (extra step needed only if you were editing Preferences whilst in _Group_ view)
+			1. **OR** If you are Viewing a Group; Tap the Home button
+			1. **OR** If you are Editing a Group; Tap either the Cancel or Done button _(takes you to the Group View screen)_, then Tap the Home button
+			1. **OR** If you are Viewing a Contact _via the Group Edit screen_; Tap the Back button _(takes you back to the Group Edit screen)_, then tap either the Cancel or Done button _(takes you to the Group View screen)_, then tap the Home button
+			1. **OR** If you are Viewing a Contact _via the Group View screen_; Tap the Back button _(takes you back to the Group View screen)_, then then tap the Home button
+			1. **OR** If you are Viewing a Contact _via the Home screen_; Tap the Back button
+			1. **OR** If you are Editing a Contact; Tap the Done or Cancel button, then follow one of the Actions above for displaying the Home screen when _Viewing a Contact_. 
+			1. **OR** If you are Viewing Preferences; Tap the Home button _(see Issue 2 below)_						
+			1. **OR** If you are Editing Preferences; Tap the Done or Cancel button, then tap the Home button
 		1. Display a Group <a id="DisplayGroup"></a>
 			1. **OR** If you are viewing the Home Screen; Tap the Title Bar (to view the drop-down list of Groups) and then Tap a Group to display it
 			1. **OR** If you are already viewing a Group and want to change to a different group; Tap the Title Bar (to view the drop-down list of Groups) and then Tap a Group to display it
@@ -212,6 +229,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 ### List of Issues
 
 1. **General Point on Design Process** - at this point, certain specific UI design details (which controls, their placement, etc) have not yet been decided upon. I see us initially trying to get the basic flow of Activities, Tasks, Actions and Operation down, identifying any 'rough edges' (as per our V1 design) and smoothing them out. At some point, we'll feel ready to begin creating our Interactive Sketching Notation (ISN) diagrams, which is the stage where we'll design out more of the UI, and then I see us iterating around the Activity Grid <-> ISN "loop". When we've got those two things down, I think we'll be well placed to begin prototyping. _Added by Ian._
+2. **Getting to the Preferences Screen ("View Preferences" and "Edit Preferences")** - no ISN for these Task at time of writing but the Actions above assume that you can only get to the Preferences screen via the Home page. This may of course change, but this is the current position. _Added by Ian._
 
 [DisplayHome]: #DisplayHome "Display Home"
 [DisplayGroup]: #DisplayGroup "Display a Group"
