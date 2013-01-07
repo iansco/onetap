@@ -166,17 +166,19 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 			1. **OR** If you are Viewing a Contact _via the Group Edit screen_; Tap the Back button _(takes you back to the Group Edit screen)_, then tap either the Cancel or Done button _(takes you to the Group View screen)_, then tap the Home button
 			1. **OR** If you are Viewing a Contact _via the Group View screen_; Tap the Back button _(takes you back to the Group View screen)_, then then tap the Home button
 			1. **OR** If you are Viewing a Contact _via the Home screen_; Tap the Back button
-			1. **OR** If you are Editing a Contact; Tap the Done or Cancel button, then follow one of the Actions above for displaying the Home screen when _Viewing a Contact_. 
+			1. **OR** If you are Editing a Contact; Tap the Done or Cancel button, then follow one of the Operations above for displaying the Home screen when _Viewing a Contact_
 			1. **OR** If you are Viewing Preferences; Tap the Home button _(see Issue 2 below)_						
 			1. **OR** If you are Editing Preferences; Tap the Done or Cancel button, then tap the Home button
 		1. Display a Group <a id="DisplayGroup"></a>
-			1. **OR** If you are viewing the Home Screen; Tap the Title Bar (to view the drop-down list of Groups) and then Tap a Group to display it
-			1. **OR** If you are already viewing a Group and want to change to a different group; Tap the Title Bar (to view the drop-down list of Groups) and then Tap a Group to display it
-			1. **OR** If you are viewing a Contact; Tap the Back button, and _if necessary_, also Tap the Title Bar (to view the drop-down list of Groups), then Tap the Group you want to view (extra steps needed only if you were viewing a Contact whilst in _Home_ view)
-			1. **OR** If you are viewing Preferences; Tap the Back button, and _if necessary_, also Tap the Title Bar (to view the drop-down list of Groups), then Tap the Group you want to view (extra steps needed only if you were viewing Preferences whilst in _Home_ view)
-			1. **OR** If you are editing a Group; Tap the Done or Cancel button
-			1. **OR** If you are editing a Contact; Tap the Done or Cancel button, then Tap the Back button, and _if necessary_, also Tap the Title Bar (to view the drop-down list of Groups), then Tap the Group you want to view (extra steps needed only if you were editing a Contact whilst in _Home_ view)
-			1. **OR** If you are editing Preferences; Tap the Done or Cancel button, then Tap the Back button, and _if necessary_, also Tap the Title Bar (to view the drop-down list of Groups), then Tap the Group you want to view (extra steps needed only if you were editing Preferences whilst in _Home_ view) 
+			1. **OR** If you are Viewing the Home Screen; Tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it
+			1. **OR** If you are already Viewing a Group and want to change to a different group; Tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it
+			1. **OR** If you are Editing a Group; Tap the Done or Cancel button, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it 
+			1. **OR** If you are Viewing a Contact _via the Group Edit screen_; Tap the Back button _(takes you back to the Group Edit screen)_, then tap either the Cancel or Done button _(takes you to the Group View screen)_, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it 
+			1. **OR** If you are Viewing a Contact _via the Group View screen_; Tap the Back button _(takes you back to the Group View screen)_, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it 
+			1. **OR** If you are Viewing a Contact _via the Home screen_; Tap the Back button, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it
+			1. **OR** If you are Editing a Contact; Tap the Done or Cancel button, then follow one of the Operations above for displaying a Group when _Viewing a Contact_
+			1. **OR** If you are Viewing Preferences; Tap the Home button _(see Issue 2 below)_, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it	
+			1. **OR** If you are Editing Preferences; Tap the Done or Cancel button, tap the Home button, then tap the Title Bar (to view the drop-down list of Groups) and then tap a Group to display it
 		1. Display Preferences <a id="DisplayPreferences"></a>
 			1. Tap the Preferences button
 		1. Find Contacts <a id="FindContacts"></a>          	        	
