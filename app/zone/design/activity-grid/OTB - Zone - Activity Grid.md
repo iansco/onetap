@@ -124,14 +124,19 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [SaveOrCancel][]
 	1. View Group
 		1. **COMMON** [DisplayGroup][]
-	1. Edit Group
+	1. Edit Group - Add Contact
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [FindContacts][]
-		1. **COMMON** **AND/OR** [SelectContacts][]
-		1. **COMMON** **AND/OR** [DeselectContacts][]
+		1. **COMMON** [SelectContacts][]
 		1. **COMMON** [SaveOrCancel][]
-	1. Edit Group Name
+	1. Edit Group - Remove Contact
+		1. **COMMON** [DisplayGroup][]
+		1. **COMMON** [EnterEditMode][]
+		1. **COMMON** [FindContacts][]
+		1. **COMMON** [DeselectContacts][]
+		1. **COMMON** [SaveOrCancel][]
+	1. Edit Group - Edit Group Name
 		1. Tap + Hold the Group Name
 		1. Edit the Group Name using the iOS keyboard
 		1. Tap the iOS keyboard Done button when finished
@@ -139,16 +144,6 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 		1. **COMMON** [DisplayGroup][]
 		1. **COMMON** [EnterEditMode][]
 		1. **COMMON** [DeleteGroup][]
-	1. Add Contact
-		1. **COMMON** [EnterEditMode][]
-		1. **COMMON** [FindContacts][]
-		1. **COMMON** [SelectContacts][]
-		1. **COMMON** [SaveOrCancel][]
-	1. Remove Contact
-		1. **COMMON** [EnterEditMode][]
-		1. **COMMON** [FindContacts][]
-		1. **COMMON** [DeselectContacts][]
-		1. **COMMON** [SaveOrCancel][]
 1. Manage Preferences
 	1. View Preferences
 		1. **COMMON** [DisplayHome][]
@@ -231,7 +226,7 @@ XHTML Header: <link rel="stylesheet" type="text/css" href="builder/css/activity-
 ### List of Issues
 
 1. **General Point on Design Process** - at this point, certain specific UI design details (which controls, their placement, etc) have not yet been decided upon. I see us initially trying to get the basic flow of Activities, Tasks, Actions and Operation down, identifying any 'rough edges' (as per our V1 design) and smoothing them out. At some point, we'll feel ready to begin creating our Interactive Sketching Notation (ISN) diagrams, which is the stage where we'll design out more of the UI, and then I see us iterating around the Activity Grid <-> ISN "loop". When we've got those two things down, I think we'll be well placed to begin prototyping. _Added by Ian._
-2. **Getting to the Preferences Screen ("View Preferences" and "Edit Preferences")** - no ISN for these Task at time of writing but the Actions above assume that you can only get to the Preferences screen via the Home page. This may of course change, but this is the current position. _Added by Ian._
+2. **Getting to the Preferences Screen ("View Preferences" and "Edit Preferences")** - no ISN for these Tasks at time of writing but the Actions above assume that you can only get to the Preferences screen via the Home page. This may of course change, but this is the current position. _Added by Ian._
 
 [DisplayHome]: #DisplayHome "Display Home"
 [DisplayGroup]: #DisplayGroup "Display a Group"
