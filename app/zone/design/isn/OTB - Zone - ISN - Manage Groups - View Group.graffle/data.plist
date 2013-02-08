@@ -1503,12 +1503,12 @@ OTB - Zone - ISN - Manage Groups - Add and Remove Contacts.pdf}</string>
 				n54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKEn54A
 				gagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKE
 				n54AgRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsx
-				Zl2DzcxMPYaShJaWBk5TS2VyboaShISECE5TTnVtYmVy
-				AISEB05TVmFsdWUAlIQBKoSEAWSjAIaShJaWBk5TRm9u
-				dIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQAAAD/
-				/k0AaQBzAG8ALQBCAG8AbABkAIQBZhaEAWMApwGnAKcA
-				hpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcChARm
-				ZmZmg5eWFj+Dl5YWP4OXlhY/AYaGhg==
+				Zl2DzcxMPYaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9y
+				AJSEAWMChARmZmZmg5eWFj+Dl5YWP4OXlhY/AYaShJaW
+				Bk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAA
+				ABQAAAD//k0AaQBzAG8ALQBCAG8AbABkAIQBZhahAKEB
+				oQChAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISE
+				B05TVmFsdWUAlIQBKoSEAWSpAIaGhg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -2510,36 +2510,6 @@ Cancel}</string>
 \f0\i\fs52 \cf2 Work}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{1837.0000305175781, 3192.6486377272522}, {16, 8}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>103234</integer>
-			<key>ImageID</key>
-			<integer>11</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
 			</dict>
 		</dict>
 		<dict>
@@ -21384,7 +21354,7 @@ Scenarios}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-01-07 02:43:56 +0000</string>
+	<string>2013-02-08 10:30:44 +0000</string>
 	<key>Modifier</key>
 	<string>Administrator</string>
 	<key>NotesVisible</key>
@@ -21484,15 +21454,15 @@ Scenarios}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-11256, -2824}, {30496, 13648}}</string>
+		<string>{{0, 0}, {3812, 1706}}</string>
 		<key>Zoom</key>
-		<real>0.0625</real>
+		<real>0.5</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>0.0625</real>
-				<real>0.125</real>
+				<real>0.5</real>
+				<real>1</real>
 			</array>
 		</array>
 	</dict>
