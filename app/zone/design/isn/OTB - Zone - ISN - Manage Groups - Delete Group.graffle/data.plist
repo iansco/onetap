@@ -326,7 +326,554 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{160, 1050}, {340, 218}}</string>
+			<string>{{158, 737.03703744258019}, {340, 66.962959289550781}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.298039</string>
+					<key>g</key>
+					<string>0.298039</string>
+					<key>r</key>
+					<string>0.298039</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>Size</key>
+				<real>18</real>
+			</dict>
+			<key>ID</key>
+			<integer>104339</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red76\green76\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ri-1940\slleading-400\pardirnatural
+
+\f0\i\fs36 \cf2 \expnd0\expndtw0\kerning0
+After review and discussion, David and Ian prefer Idea A from all available options.}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextPlacement</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{158, 693.03703744258019}, {227, 63}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>YES</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.298039</string>
+					<key>g</key>
+					<string>0.298039</string>
+					<key>r</key>
+					<string>0.298039</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>Size</key>
+				<real>28</real>
+			</dict>
+			<key>ID</key>
+			<integer>104338</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red102\green102\blue102;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\i\fs56 \cf2 Idea A - Preferred Option}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+			<key>Wrap</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{94, 714}, {52.271923065185547, 47.371429443359375}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104337</integer>
+			<key>ImageID</key>
+			<integer>51</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2293.9998960689627, 834}, {290, 49}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.0980392</string>
+					<key>g</key>
+					<string>0.0980392</string>
+					<key>r</key>
+					<string>0.0980392</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>15</real>
+			</dict>
+			<key>ID</key>
+			<integer>104336</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-360\pardirnatural
+
+\f0\i\fs30 \cf2 \expnd0\expndtw0\kerning0
+David's Feedback - likes this idea best out of all options presented. Ian agrees and prefers Idea A too.}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2241.314283591104, 842}, {46.685716408896042, 42.308928910867671}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104334</integer>
+			<key>ImageID</key>
+			<integer>51</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2298.0000372127615, 4230.2035064697266}, {290, 49}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.0980392</string>
+					<key>g</key>
+					<string>0.0980392</string>
+					<key>r</key>
+					<string>0.0980392</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>15</real>
+			</dict>
+			<key>ID</key>
+			<integer>104333</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-360\pardirnatural
+
+\f0\i\fs30 \cf2 \expnd0\expndtw0\kerning0
+David's Feedback - doesn't like this idea, prefers Idea A. Ian agrees and prefers Idea A too.}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2245.6551704406738, 4236.7035140991211}, {46.344829559326172, 42}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104332</integer>
+			<key>ImageID</key>
+			<integer>50</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2298.0000372127615, 3236.4999904632568}, {290, 49}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.0980392</string>
+					<key>g</key>
+					<string>0.0980392</string>
+					<key>r</key>
+					<string>0.0980392</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>15</real>
+			</dict>
+			<key>ID</key>
+			<integer>104331</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-360\pardirnatural
+
+\f0\i\fs30 \cf2 \expnd0\expndtw0\kerning0
+David's Feedback - doesn't like this idea, prefers Idea A. Ian agrees and prefers Idea A too.}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2245.6551704406738, 3242.9999980926514}, {46.344829559326172, 42}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104330</integer>
+			<key>ImageID</key>
+			<integer>50</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2298.0000372127615, 1935.4999923706055}, {290, 49}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FitText</key>
+			<string>Vertical</string>
+			<key>Flow</key>
+			<string>Resize</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Color</key>
+				<dict>
+					<key>b</key>
+					<string>0.0980392</string>
+					<key>g</key>
+					<string>0.0980392</string>
+					<key>r</key>
+					<string>0.0980392</string>
+				</dict>
+				<key>Font</key>
+				<string>Miso</string>
+				<key>NSKern</key>
+				<real>0.0</real>
+				<key>Size</key>
+				<real>15</real>
+			</dict>
+			<key>ID</key>
+			<integer>104329</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Align</key>
+				<integer>0</integer>
+				<key>Pad</key>
+				<integer>0</integer>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-360\pardirnatural
+
+\f0\i\fs30 \cf2 \expnd0\expndtw0\kerning0
+David's Feedback - doesn't like this idea, prefers Idea A. Ian agrees and prefers Idea A too.}</string>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{2245.6551704406738, 1942}, {46.344829559326172, 42}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104328</integer>
+			<key>ImageID</key>
+			<integer>50</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{160, 1180}, {340, 218}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -389,7 +936,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{160, 1006}, {443, 63}}</string>
+			<string>{{160, 1136}, {443, 63}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -455,7 +1002,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{94, 1024}, {56.685716408895722, 61.999999999999993}}</string>
+			<string>{{94, 1154}, {56.685716408895722, 61.999999999999993}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -485,15 +1032,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3804}, {16, 15}}</string>
+			<string>{{4379.9999580383301, 3854}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104306</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -524,15 +1069,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3802}, {57, 18}}</string>
+			<string>{{4270.4999580383301, 3852}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104305</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -563,15 +1106,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3755}, {16, 15}}</string>
+			<string>{{4379.9999580383301, 3805}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104304</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -602,15 +1143,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3753}, {57, 18}}</string>
+			<string>{{4270.4999580383301, 3803}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104303</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -641,15 +1180,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3703}, {16, 15}}</string>
+			<string>{{4379.9999580383301, 3753}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104302</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -680,15 +1217,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3701}, {57, 18}}</string>
+			<string>{{4270.4999580383301, 3751}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104301</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -719,15 +1254,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3655}, {16, 15}}</string>
+			<string>{{4379.9999580383301, 3705}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104300</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -758,15 +1291,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3653}, {57, 18}}</string>
+			<string>{{4270.4999580383301, 3703}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104299</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -797,15 +1328,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3607}, {16, 15}}</string>
+			<string>{{4379.9999580383301, 3657}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104298</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -836,15 +1365,87 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3605}, {57, 18}}</string>
+			<string>{{4270.4999580383301, 3655}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104297</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
+			<key>Opacity</key>
+			<real>0.5</real>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>image fill</key>
+				<dict>
+					<key>Opacity</key>
+					<real>0.5</real>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{4379.9999580383301, 3609}, {16, 15}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104296</integer>
+			<key>ImageID</key>
+			<integer>20</integer>
+			<key>Opacity</key>
+			<real>0.5</real>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>image fill</key>
+				<dict>
+					<key>Opacity</key>
+					<real>0.5</real>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{4270.4999580383301, 3607}, {57, 18}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>104295</integer>
+			<key>ImageID</key>
+			<integer>19</integer>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -879,11 +1480,9 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>104296</integer>
+			<integer>104294</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -918,89 +1517,9 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>104295</integer>
-			<key>ImageID</key>
-			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
-			<key>Opacity</key>
-			<real>0.5</real>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>image fill</key>
-				<dict>
-					<key>Opacity</key>
-					<real>0.5</real>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{4379.9999580383301, 3509}, {16, 15}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>104294</integer>
-			<key>ImageID</key>
-			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
-			<key>Opacity</key>
-			<real>0.5</real>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>image fill</key>
-				<dict>
-					<key>Opacity</key>
-					<real>0.5</real>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{4270.4999580383301, 3507}, {57, 18}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
 			<integer>104293</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -1031,15 +1550,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4129.9999580383301, 3833}, {300, 8}}</string>
+			<string>{{4129.9999580383301, 3883}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104292</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1070,7 +1587,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3780}, {96, 47}}</string>
+			<string>{{4127.9999580383301, 3830}, {96, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1095,8 +1612,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104291</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1140,15 +1655,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4129.9999580383301, 3781}, {300, 8}}</string>
+			<string>{{4129.9999580383301, 3831}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104290</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1179,7 +1692,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3728}, {81, 47}}</string>
+			<string>{{4127.9999580383301, 3778}, {81, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1204,8 +1717,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104289</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1249,15 +1760,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4401.9999580383301, 3496.5999999999999}, {19.047618704699218, 360}}</string>
+			<string>{{4401.9999580383301, 3546.5999999999999}, {19.047618704699218, 360}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104288</integer>
 			<key>ImageID</key>
 			<integer>16</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1281,15 +1790,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4129.9999580383301, 3731}, {300, 8}}</string>
+			<string>{{4129.9999580383301, 3781}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104287</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1320,15 +1827,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3682}, {300, 8}}</string>
+			<string>{{4127.9999580383301, 3732}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104286</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1359,15 +1864,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4125.9999580383301, 3633}, {300, 8}}</string>
+			<string>{{4125.9999580383301, 3683}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104285</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1398,15 +1901,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4123.9999580383301, 3584}, {300, 8}}</string>
+			<string>{{4123.9999580383301, 3634}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104284</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1437,15 +1938,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4123.9999580383301, 3537}, {300, 8}}</string>
+			<string>{{4123.9999580383301, 3587}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104283</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -1476,7 +1975,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4108.9999580383301, 3375}, {178, 41}}</string>
+			<string>{{4108.9999580383301, 3425}, {178, 41}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1503,8 +2002,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104282</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1547,7 +2044,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3678}, {93, 47}}</string>
+			<string>{{4127.9999580383301, 3728}, {93, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1572,8 +2069,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104281</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1617,7 +2112,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3630.5}, {73, 47}}</string>
+			<string>{{4127.9999580383301, 3680.5}, {73, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1642,8 +2137,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104280</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1687,7 +2180,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3584.5}, {114, 47}}</string>
+			<string>{{4127.9999580383301, 3634.5}, {114, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1712,8 +2205,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104279</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1757,7 +2248,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3534.5}, {74, 47}}</string>
+			<string>{{4127.9999580383301, 3584.5}, {74, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1782,8 +2273,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104278</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1827,7 +2316,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4127.9999580383301, 3484.5}, {54, 47}}</string>
+			<string>{{4127.9999580383301, 3534.5}, {54, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1852,8 +2341,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104277</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1897,7 +2384,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4205.9999580383301, 3432}, {130, 58}}</string>
+			<string>{{4205.9999580383301, 3482}, {130, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1922,8 +2409,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			</dict>
 			<key>ID</key>
 			<integer>104276</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1961,15 +2446,13 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4262.9999580383301, 3482}, {16, 8}}</string>
+			<string>{{4262.9999580383301, 3532}, {16, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104275</integer>
 			<key>ImageID</key>
 			<integer>11</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1993,7 +2476,7 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4365.9999580383301, 3456}, {60, 30}}</string>
+			<string>{{4365.9999580383301, 3506}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2014,8 +2497,6 @@ Performing a "flick-left" gesture on a list item to delete it seems to be a pret
 			<integer>104274</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -2052,7 +2533,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4117.9999580383301, 3456}, {60, 30}}</string>
+			<string>{{4117.9999580383301, 3506}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2066,8 +2547,6 @@ Add Group}</string>
 			<integer>104273</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -2103,15 +2582,13 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{4105.9999580383301, 3416}, {330, 497}}</string>
+			<string>{{4105.9999580383301, 3466}, {330, 497}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104272</integer>
 			<key>ImageID</key>
 			<integer>14</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -2135,7 +2612,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3033.8965825788546, 3922}, {27, 24}}</string>
+			<string>{{3033.8965825788546, 3972}, {27, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2225,12 +2702,12 @@ TAP}</string>
 			<integer>104268</integer>
 			<key>Points</key>
 			<array>
-				<string>{3544.9152074439612, 3879}</string>
-				<string>{3546.0135102520999, 3878.2033779951939}</string>
-				<string>{3546.0135102520999, 3956}</string>
-				<string>{2458, 3956}</string>
-				<string>{2412, 3956}</string>
-				<string>{2412, 3920}</string>
+				<string>{3544.9152074439612, 3929}</string>
+				<string>{3546.0135102520999, 3928.2033779951939}</string>
+				<string>{3546.0135102520999, 4006}</string>
+				<string>{2458, 4006}</string>
+				<string>{2412, 4006}</string>
+				<string>{2412, 3970}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2262,7 +2739,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3926.8779165166889, 3788.6412169116184}, {27, 24}}</string>
+			<string>{{3926.8779165166889, 3838.6412169116184}, {27, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2336,9 +2813,9 @@ TAP}</string>
 			<integer>104266</integer>
 			<key>Points</key>
 			<array>
-				<string>{3764, 3822}</string>
-				<string>{3916.75, 3822.75}</string>
-				<string>{4080, 3822}</string>
+				<string>{3764, 3872}</string>
+				<string>{3916.75, 3872.75}</string>
+				<string>{4080, 3872}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2370,7 +2847,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2849}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 2889}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -2400,7 +2877,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 2843}, {290, 145}}</string>
+			<string>{{2298.0000372127615, 2883}, {290, 145}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2467,7 +2944,7 @@ Might people be worried that deleting a Group will also delete all the Contacts 
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2192, 3376}, {52, 52}}</string>
+			<string>{{2192, 3426}, {52, 52}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -2502,8 +2979,8 @@ Might people be worried that deleting a Group will also delete all the Contacts 
 			<integer>104263</integer>
 			<key>Points</key>
 			<array>
-				<string>{3472.0001220703125, 3547.3066642428917}</string>
-				<string>{3614, 3600}</string>
+				<string>{3472.0001220703125, 3597.3066642428917}</string>
+				<string>{3614, 3650}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2538,7 +3015,7 @@ Might people be worried that deleting a Group will also delete all the Contacts 
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3262.0001220703125, 3459}, {210, 109}}</string>
+			<string>{{3262.0001220703125, 3509}, {210, 109}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2609,7 +3086,7 @@ After tapping the Delete Group confirmation, the Group chosen for deletion will 
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3303.0596096432564, 3773.5226792821313}, {30, 48}}</string>
+			<string>{{3303.0596096432564, 3823.5226792821313}, {30, 48}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2688,8 +3165,8 @@ TAP}</string>
 			<integer>104260</integer>
 			<key>Points</key>
 			<array>
-				<string>{3156, 3815}</string>
-				<string>{3466, 3816}</string>
+				<string>{3156, 3865}</string>
+				<string>{3466, 3866}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2726,7 +3203,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3519.9998520848453, 3725}, {281.99996948242188, 58}}</string>
+			<string>{{3519.9998520848453, 3775}, {281.99996948242188, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2751,8 +3228,6 @@ TAP}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104211</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -2792,7 +3267,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3536.8569926064588, 3852}, {240, 34}}</string>
+			<string>{{3536.8569926064588, 3902}, {240, 34}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2813,8 +3288,6 @@ TAP}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104210</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Magnets</key>
 			<array>
 				<string>{-0.45809154287672449, 0}</string>
@@ -2878,7 +3351,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3536.8569926064588, 3798}, {240, 34}}</string>
+			<string>{{3536.8569926064588, 3848}, {240, 34}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -2899,8 +3372,6 @@ TAP}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104209</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Magnets</key>
 			<array>
 				<string>{-0.36410955119282562, 0}</string>
@@ -2964,13 +3435,11 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3505.9998520848453, 3738}, {304, 156}}</string>
+			<string>{{3505.9998520848453, 3788}, {304, 156}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104208</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -2994,7 +3463,7 @@ TAP}</string>
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3778.1893920898438, 3696.5}, {16, 15}}</string>
+					<string>{{3778.1893920898438, 3746.5}, {16, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3031,7 +3500,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3778.1893920898438, 3650.5}, {16, 15}}</string>
+					<string>{{3778.1893920898438, 3700.5}, {16, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3068,7 +3537,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3778.1893920898438, 3602.5}, {16, 15}}</string>
+					<string>{{3778.1893920898438, 3652.5}, {16, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3105,7 +3574,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3778.1893920898438, 3552.5}, {16, 15}}</string>
+					<string>{{3778.1893920898438, 3602.5}, {16, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3142,7 +3611,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3778.1893920898438, 3502.5}, {16, 15}}</string>
+					<string>{{3778.1893920898438, 3552.5}, {16, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3179,7 +3648,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3670.6893920898438, 3695.5}, {57, 18}}</string>
+					<string>{{3670.6893920898438, 3745.5}, {57, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3216,7 +3685,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3670.6893920898438, 3650.5}, {57, 18}}</string>
+					<string>{{3670.6893920898438, 3700.5}, {57, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3253,7 +3722,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3670.6893920898438, 3600.5}, {57, 18}}</string>
+					<string>{{3670.6893920898438, 3650.5}, {57, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3290,7 +3759,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3668.6893920898438, 3550.5}, {57, 18}}</string>
+					<string>{{3668.6893920898438, 3600.5}, {57, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3327,7 +3796,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3668.6893920898438, 3500.5}, {57, 18}}</string>
+					<string>{{3668.6893920898438, 3550.5}, {57, 18}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3364,7 +3833,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3520.1893920898438, 3724.5}, {300, 8}}</string>
+					<string>{{3520.1893920898438, 3774.5}, {300, 8}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3401,7 +3870,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3675.5}, {300, 8}}</string>
+					<string>{{3518.1893920898438, 3725.5}, {300, 8}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3438,7 +3907,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3516.1893920898438, 3626.5}, {300, 8}}</string>
+					<string>{{3516.1893920898438, 3676.5}, {300, 8}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3475,7 +3944,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3514.1893920898438, 3577.5}, {300, 8}}</string>
+					<string>{{3514.1893920898438, 3627.5}, {300, 8}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3512,7 +3981,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3514.1893920898438, 3530.5}, {300, 8}}</string>
+					<string>{{3514.1893920898438, 3580.5}, {300, 8}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -3549,7 +4018,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3671.5}, {96, 47}}</string>
+					<string>{{3518.1893920898438, 3721.5}, {96, 47}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3617,7 +4086,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3624}, {81, 47}}</string>
+					<string>{{3518.1893920898438, 3674}, {81, 47}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3685,7 +4154,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3578}, {73, 47}}</string>
+					<string>{{3518.1893920898438, 3628}, {73, 47}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3753,7 +4222,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3528}, {114, 47}}</string>
+					<string>{{3518.1893920898438, 3578}, {114, 47}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3821,7 +4290,7 @@ TAP}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{3518.1893920898438, 3478}, {74, 47}}</string>
+					<string>{{3518.1893920898438, 3528}, {74, 47}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -3890,20 +4359,16 @@ TAP}</string>
 			</array>
 			<key>ID</key>
 			<integer>104238</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3753.9998520848453, 3744.0000095810969}, {24.999999999999996, 25}}</string>
+			<string>{{3753.9998520848453, 3794.0000095810969}, {24.999999999999996, 25}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104206</integer>
 			<key>ImageID</key>
 			<integer>25</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.40384310483932495</real>
 			<key>Shape</key>
@@ -3934,15 +4399,13 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3511.9998520848453, 3781}, {300, 8}}</string>
+			<string>{{3511.9998520848453, 3831}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104199</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -3973,7 +4436,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3509.9998520848453, 3726}, {96, 47}}</string>
+			<string>{{3509.9998520848453, 3776}, {96, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -3998,8 +4461,6 @@ TAP}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104198</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4043,7 +4504,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3501.9998520848453, 3448}, {60, 30}}</string>
+			<string>{{3501.9998520848453, 3498}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -4057,8 +4518,6 @@ TAP}</string>
 			<integer>104190</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4099,7 +4558,7 @@ Cancel}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3494.9998520848453, 3368}, {178, 41}}</string>
+			<string>{{3494.9998520848453, 3418}, {178, 41}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4126,8 +4585,6 @@ Cancel}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104189</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4170,7 +4627,7 @@ Cancel}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3591.9998520848453, 3425}, {130, 58}}</string>
+			<string>{{3591.9998520848453, 3475}, {130, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4195,8 +4652,6 @@ Cancel}</string>
 			</dict>
 			<key>ID</key>
 			<integer>104188</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4234,15 +4689,13 @@ Cancel}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3648.9998520848453, 3475}, {16, 8}}</string>
+			<string>{{3648.9998520848453, 3525}, {16, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104187</integer>
 			<key>ImageID</key>
 			<integer>11</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4266,7 +4719,7 @@ Cancel}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3751.9998520848453, 3449}, {60, 30}}</string>
+			<string>{{3751.9998520848453, 3499}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -4287,8 +4740,6 @@ Cancel}</string>
 			<integer>104186</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -4329,15 +4780,13 @@ Done}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3491.9998520848453, 3409}, {330, 497}}</string>
+			<string>{{3491.9998520848453, 3459}, {330, 497}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104185</integer>
 			<key>ImageID</key>
 			<integer>23</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Magnets</key>
 			<array>
 				<string>{0.35151515151515156, -0.1519114688128772}</string>
@@ -4365,7 +4814,7 @@ Done}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3104, 3798}, {60, 30}}</string>
+			<string>{{3104, 3848}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -4426,7 +4875,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2668.2694167713944, 3778.5602796025519}, {64, 48}}</string>
+			<string>{{2668.2694167713944, 3828.5602796025519}, {64, 48}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4502,8 +4951,8 @@ Delete}</string>
 			<integer>104182</integer>
 			<key>Points</key>
 			<array>
-				<string>{2522, 3820.0874797507367}</string>
-				<string>{2866, 3820.9999465942383}</string>
+				<string>{2522, 3870.0874797507367}</string>
+				<string>{2866, 3870.9999465942383}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4543,8 +4992,8 @@ Delete}</string>
 			<integer>104177</integer>
 			<key>Points</key>
 			<array>
-				<string>{2937.9999551578439, 3787.5}</string>
-				<string>{3161.9999551578439, 3787.5}</string>
+				<string>{2937.9999551578439, 3837.5}</string>
+				<string>{3161.9999551578439, 3837.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4570,7 +5019,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3776}, {130, 56}}</string>
+			<string>{{2986, 3826}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4637,8 +5086,8 @@ Delete}</string>
 			<integer>104175</integer>
 			<key>Points</key>
 			<array>
-				<string>{2939, 3738.5}</string>
-				<string>{3163, 3738.5}</string>
+				<string>{2939, 3788.5}</string>
+				<string>{3163, 3788.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4664,7 +5113,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3727}, {130, 56}}</string>
+			<string>{{2986, 3777}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4731,8 +5180,8 @@ Delete}</string>
 			<integer>104173</integer>
 			<key>Points</key>
 			<array>
-				<string>{2939, 3687.5}</string>
-				<string>{3163, 3687.5}</string>
+				<string>{2939, 3737.5}</string>
+				<string>{3163, 3737.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4758,7 +5207,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2983, 3676}, {130, 56}}</string>
+			<string>{{2983, 3726}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4825,8 +5274,8 @@ Delete}</string>
 			<integer>104171</integer>
 			<key>Points</key>
 			<array>
-				<string>{2939, 3634.5}</string>
-				<string>{3163, 3634.5}</string>
+				<string>{2939, 3684.5}</string>
+				<string>{3163, 3684.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4852,7 +5301,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3623}, {130, 56}}</string>
+			<string>{{2986, 3673}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -4919,8 +5368,8 @@ Delete}</string>
 			<integer>104169</integer>
 			<key>Points</key>
 			<array>
-				<string>{2939, 3583.5}</string>
-				<string>{3163, 3583.5}</string>
+				<string>{2939, 3633.5}</string>
+				<string>{3163, 3633.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -4946,7 +5395,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3572}, {130, 56}}</string>
+			<string>{{2986, 3622}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -5013,8 +5462,8 @@ Delete}</string>
 			<integer>104167</integer>
 			<key>Points</key>
 			<array>
-				<string>{2945.9999551578439, 3487}</string>
-				<string>{3169.9999551578439, 3487}</string>
+				<string>{2945.9999551578439, 3537}</string>
+				<string>{3169.9999551578439, 3537}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -5045,8 +5494,8 @@ Delete}</string>
 			<integer>104166</integer>
 			<key>Points</key>
 			<array>
-				<string>{2939, 3533.5}</string>
-				<string>{3163, 3533.5}</string>
+				<string>{2939, 3583.5}</string>
+				<string>{3163, 3583.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -5072,7 +5521,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3522}, {130, 56}}</string>
+			<string>{{2986, 3572}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -5134,7 +5583,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2986, 3474}, {130, 56}}</string>
+			<string>{{2986, 3524}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -5196,7 +5645,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2931.9999551578439, 3482}, {248, 356}}</string>
+			<string>{{2931.9999551578439, 3532}, {248, 356}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5233,7 +5682,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3797}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3847}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5270,7 +5719,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3795}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3845}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5307,7 +5756,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3748}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3798}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5344,7 +5793,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3746}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3796}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5381,7 +5830,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3696}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3746}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5418,7 +5867,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3694}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3744}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5455,7 +5904,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3648}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3698}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5492,7 +5941,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3646}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3696}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5529,7 +5978,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3600}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3650}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5566,7 +6015,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3598}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3648}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5603,7 +6052,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3552}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3602}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5640,7 +6089,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3550}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3600}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5677,7 +6126,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3161.9999923706055, 3502}, {16, 15}}</string>
+			<string>{{3161.9999923706055, 3552}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5714,7 +6163,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3052.4999923706055, 3500}, {57, 18}}</string>
+			<string>{{3052.4999923706055, 3550}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5751,7 +6200,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2911.9999923706055, 3826}, {300, 8}}</string>
+			<string>{{2911.9999923706055, 3876}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5788,7 +6237,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3773}, {96, 47}}</string>
+			<string>{{2909.9999923706055, 3823}, {96, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -5856,7 +6305,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2911.9999923706055, 3774}, {300, 8}}</string>
+			<string>{{2911.9999923706055, 3824}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5893,7 +6342,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3721}, {81, 47}}</string>
+			<string>{{2909.9999923706055, 3771}, {81, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -5961,7 +6410,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3183.9999923706055, 3489.5999999999999}, {19.047618704699218, 360}}</string>
+			<string>{{3183.9999923706055, 3539.5999999999999}, {19.047618704699218, 360}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -5991,7 +6440,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2911.9999923706055, 3724}, {300, 8}}</string>
+			<string>{{2911.9999923706055, 3774}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6028,7 +6477,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3675}, {300, 8}}</string>
+			<string>{{2909.9999923706055, 3725}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6065,7 +6514,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2907.9999923706055, 3626}, {300, 8}}</string>
+			<string>{{2907.9999923706055, 3676}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6102,7 +6551,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2905.9999923706055, 3577}, {300, 8}}</string>
+			<string>{{2905.9999923706055, 3627}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6139,7 +6588,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2905.9999923706055, 3530}, {300, 8}}</string>
+			<string>{{2905.9999923706055, 3580}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6176,7 +6625,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2890.9999923706055, 3368}, {178, 41}}</string>
+			<string>{{2890.9999923706055, 3418}, {178, 41}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6245,7 +6694,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3671}, {93, 47}}</string>
+			<string>{{2909.9999923706055, 3721}, {93, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6313,7 +6762,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3623.5}, {73, 47}}</string>
+			<string>{{2909.9999923706055, 3673.5}, {73, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6381,7 +6830,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3577.5}, {114, 47}}</string>
+			<string>{{2909.9999923706055, 3627.5}, {114, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6449,7 +6898,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3527.5}, {74, 47}}</string>
+			<string>{{2909.9999923706055, 3577.5}, {74, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6517,7 +6966,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2909.9999923706055, 3477.5}, {54, 47}}</string>
+			<string>{{2909.9999923706055, 3527.5}, {54, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6585,7 +7034,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2987.9999923706055, 3425}, {130, 58}}</string>
+			<string>{{2987.9999923706055, 3475}, {130, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6647,7 +7096,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3044.9999923706055, 3475}, {16, 8}}</string>
+			<string>{{3044.9999923706055, 3525}, {16, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6677,7 +7126,7 @@ Delete}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{3147.9999923706055, 3449}, {60, 30}}</string>
+			<string>{{3147.9999923706055, 3499}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -6734,7 +7183,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2899.9999923706055, 3449}, {60, 30}}</string>
+			<string>{{2899.9999923706055, 3499}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -6783,7 +7232,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2887.9999923706055, 3409}, {330, 497}}</string>
+			<string>{{2887.9999923706055, 3459}, {330, 497}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6813,7 +7262,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2456, 3794.9999465942383}, {66, 50}}</string>
+			<string>{{2456, 3844.9999465942383}, {66, 50}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6843,7 +7292,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 4068.2032699584961}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 4118.2032699584961}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6873,7 +7322,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 4062.2032699584961}, {290, 97}}</string>
+			<string>{{2298.0000372127615, 4112.2032699584961}, {290, 97}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -6940,7 +7389,7 @@ It smacks a little of "Mystery Meat" navigation. Whilst it is a fairly common co
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 4012.2032699584961}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 4062.2032699584961}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -6970,7 +7419,7 @@ It smacks a little of "Mystery Meat" navigation. Whilst it is a fairly common co
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 4006.2032699584961}, {290, 34}}</string>
+			<string>{{2298.0000372127615, 4056.2032699584961}, {290, 34}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7042,8 +7491,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104100</integer>
 			<key>Points</key>
 			<array>
-				<string>{2303.9999627872385, 3794.5}</string>
-				<string>{2527.9999627872385, 3794.5}</string>
+				<string>{2303.9999627872385, 3844.5}</string>
+				<string>{2527.9999627872385, 3844.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7069,7 +7518,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2350.9999627872385, 3783}, {130, 56}}</string>
+			<string>{{2350.9999627872385, 3833}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7136,8 +7585,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104098</integer>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 3745.5}</string>
-				<string>{2529.0000076293945, 3745.5}</string>
+				<string>{2305.0000076293945, 3795.5}</string>
+				<string>{2529.0000076293945, 3795.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7163,7 +7612,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3734}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3784}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7230,8 +7679,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104096</integer>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 3694.5}</string>
-				<string>{2529.0000076293945, 3694.5}</string>
+				<string>{2305.0000076293945, 3744.5}</string>
+				<string>{2529.0000076293945, 3744.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7257,7 +7706,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3683}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3733}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7324,8 +7773,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104094</integer>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 3641.5}</string>
-				<string>{2529.0000076293945, 3641.5}</string>
+				<string>{2305.0000076293945, 3691.5}</string>
+				<string>{2529.0000076293945, 3691.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7351,7 +7800,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3630}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3680}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7418,8 +7867,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104092</integer>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 3590.5}</string>
-				<string>{2529.0000076293945, 3590.5}</string>
+				<string>{2305.0000076293945, 3640.5}</string>
+				<string>{2529.0000076293945, 3640.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7445,7 +7894,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3579}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3629}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7512,8 +7961,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104090</integer>
 			<key>Points</key>
 			<array>
-				<string>{2311.9999627872385, 3494}</string>
-				<string>{2535.9999627872385, 3494}</string>
+				<string>{2311.9999627872385, 3544}</string>
+				<string>{2535.9999627872385, 3544}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7544,8 +7993,8 @@ I like the reduced clutter of this approach. However...}</string>
 			<integer>104089</integer>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 3540.5}</string>
-				<string>{2529.0000076293945, 3540.5}</string>
+				<string>{2305.0000076293945, 3590.5}</string>
+				<string>{2529.0000076293945, 3590.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -7571,7 +8020,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3529}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3579}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7633,7 +8082,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 3481}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 3531}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -7695,7 +8144,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2297.9999627872385, 3489}, {248, 356}}</string>
+			<string>{{2297.9999627872385, 3539}, {248, 356}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7732,7 +8181,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3804}, {16, 15}}</string>
+			<string>{{2528, 3854}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7769,7 +8218,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3802}, {57, 18}}</string>
+			<string>{{2418.5, 3852}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7806,7 +8255,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3755}, {16, 15}}</string>
+			<string>{{2528, 3805}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7843,7 +8292,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3753}, {57, 18}}</string>
+			<string>{{2418.5, 3803}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7880,7 +8329,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3703}, {16, 15}}</string>
+			<string>{{2528, 3753}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7917,7 +8366,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3701}, {57, 18}}</string>
+			<string>{{2418.5, 3751}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7954,7 +8403,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3655}, {16, 15}}</string>
+			<string>{{2528, 3705}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -7991,7 +8440,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3653}, {57, 18}}</string>
+			<string>{{2418.5, 3703}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8028,7 +8477,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3607}, {16, 15}}</string>
+			<string>{{2528, 3657}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8065,7 +8514,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3605}, {57, 18}}</string>
+			<string>{{2418.5, 3655}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8102,7 +8551,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3559}, {16, 15}}</string>
+			<string>{{2528, 3609}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8139,7 +8588,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3557}, {57, 18}}</string>
+			<string>{{2418.5, 3607}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8176,7 +8625,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 3509}, {16, 15}}</string>
+			<string>{{2528, 3559}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8213,7 +8662,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 3507}, {57, 18}}</string>
+			<string>{{2418.5, 3557}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8250,7 +8699,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 3833}, {300, 8}}</string>
+			<string>{{2278, 3883}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8287,7 +8736,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3780}, {96, 47}}</string>
+			<string>{{2276, 3830}, {96, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8355,7 +8804,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 3781}, {300, 8}}</string>
+			<string>{{2278, 3831}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8392,7 +8841,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3728}, {81, 47}}</string>
+			<string>{{2276, 3778}, {81, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8460,7 +8909,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2550, 3496.5999999999999}, {19.047618704699218, 360}}</string>
+			<string>{{2550, 3546.5999999999999}, {19.047618704699218, 360}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8490,7 +8939,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 3731}, {300, 8}}</string>
+			<string>{{2278, 3781}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8527,7 +8976,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3682}, {300, 8}}</string>
+			<string>{{2276, 3732}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8564,7 +9013,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2274, 3633}, {300, 8}}</string>
+			<string>{{2274, 3683}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8601,7 +9050,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2272, 3584}, {300, 8}}</string>
+			<string>{{2272, 3634}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8638,7 +9087,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2272, 3537}, {300, 8}}</string>
+			<string>{{2272, 3587}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -8675,7 +9124,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2257, 3375}, {178, 41}}</string>
+			<string>{{2257, 3425}, {178, 41}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8744,7 +9193,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3678}, {93, 47}}</string>
+			<string>{{2276, 3728}, {93, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8812,7 +9261,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3630.5}, {73, 47}}</string>
+			<string>{{2276, 3680.5}, {73, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8880,7 +9329,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3584.5}, {114, 47}}</string>
+			<string>{{2276, 3634.5}, {114, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -8948,7 +9397,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3534.5}, {74, 47}}</string>
+			<string>{{2276, 3584.5}, {74, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9016,7 +9465,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 3484.5}, {54, 47}}</string>
+			<string>{{2276, 3534.5}, {54, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9084,7 +9533,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2354, 3432}, {130, 58}}</string>
+			<string>{{2354, 3482}, {130, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9146,7 +9595,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2411, 3482}, {16, 8}}</string>
+			<string>{{2411, 3532}, {16, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9176,7 +9625,7 @@ I like the reduced clutter of this approach. However...}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2514, 3456}, {60, 30}}</string>
+			<string>{{2514, 3506}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -9233,7 +9682,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2266, 3456}, {60, 30}}</string>
+			<string>{{2266, 3506}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -9282,7 +9731,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 3416}, {330, 497}}</string>
+			<string>{{2254, 3466}, {330, 497}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9312,7 +9761,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2659.1475108083623, 2481.9999790580682}, {27, 24}}</string>
+			<string>{{2661.6862379685044, 2521.9999790580682}, {27, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -9386,9 +9835,9 @@ TAP}</string>
 			<integer>104049</integer>
 			<key>Points</key>
 			<array>
-				<string>{2523, 2515.9999790580682}</string>
-				<string>{3046, 2515.9999790580682}</string>
-				<string>{3044, 790}</string>
+				<string>{2523, 2555.9999790580682}</string>
+				<string>{3046, 2555.9999790580682}</string>
+				<string>{3046, 792}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -9420,7 +9869,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2773.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 2813.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9450,7 +9899,7 @@ TAP}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 2767.9998931884766}, {290, 65}}</string>
+			<string>{{2298.0000372127615, 2807.9998931884766}, {290, 65}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9517,7 +9966,7 @@ The Group Selection list also kind of becomes a Group Management list, which als
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2697.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 2737.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9547,7 +9996,7 @@ The Group Selection list also kind of becomes a Group Management list, which als
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 2691.9998931884766}, {290, 65}}</string>
+			<string>{{2298.0000372127615, 2731.9998931884766}, {290, 65}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9614,7 +10063,7 @@ Somewhat quicker than having to put a Group into Edit mode and then (potentially
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 3075.9999923706055}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 3115.9999923706055}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9644,7 +10093,7 @@ Somewhat quicker than having to put a Group into Edit mode and then (potentially
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 3069.9999923706055}, {290, 113}}</string>
+			<string>{{2298.0000372127615, 3109.9999923706055}, {290, 113}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9711,7 +10160,7 @@ I think the problem for me is not so much where these buttons are displayed, but
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2998}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 3038}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9741,7 +10190,7 @@ I think the problem for me is not so much where these buttons are displayed, but
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 2992}, {290, 81}}</string>
+			<string>{{2298.0000372127615, 3032}, {290, 81}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9808,7 +10257,7 @@ Delete buttons not always visible - though you can also say the same about Ideas
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2639.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
+			<string>{{2254, 2679.9998931884766}, {34.2854700594335, 34.2854700594335}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -9838,7 +10287,7 @@ Delete buttons not always visible - though you can also say the same about Ideas
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2298.0000372127615, 2633.9998931884766}, {290, 49}}</string>
+			<string>{{2298.0000372127615, 2673.9998931884766}, {290, 49}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9905,7 +10354,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2494.499963760376}, {8, 20}}</string>
+			<string>{{2515, 2534.499963760376}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9930,8 +10379,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104038</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -9971,7 +10418,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2446.499963760376}, {8, 20}}</string>
+			<string>{{2515, 2486.499963760376}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -9996,8 +10443,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104037</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10037,7 +10482,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2393.999963760376}, {8, 20}}</string>
+			<string>{{2515, 2433.999963760376}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10062,8 +10507,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104036</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10103,7 +10546,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2342.0000381469727}, {8, 20}}</string>
+			<string>{{2515, 2382.0000381469727}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10128,8 +10571,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104035</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10169,7 +10610,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2290.5}, {8, 20}}</string>
+			<string>{{2515, 2330.5}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10194,8 +10635,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104034</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10235,7 +10674,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2242}, {8, 20}}</string>
+			<string>{{2515, 2282}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10260,8 +10699,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104033</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10301,7 +10738,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2515, 2192.5}, {8, 20}}</string>
+			<string>{{2515, 2232.5}, {8, 20}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10326,8 +10763,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104032</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10367,13 +10802,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2498.000340461731}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2538.000340461731}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104031</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10399,13 +10832,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2450.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2490.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104030</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10431,13 +10862,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2398.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2438.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104029</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10463,13 +10892,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2346.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2386.000111579895}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104027</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10495,13 +10922,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2294.0000371932983}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2334.0000371932983}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104026</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10527,13 +10952,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2246}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2286}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>104025</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10559,7 +10982,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2510, 2196}, {17.999962787238474, 17.999962787238474}}</string>
+			<string>{{2510, 2236}, {17.999962787238474, 17.999962787238474}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10584,8 +11007,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>104023</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -10618,15 +11039,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2192, 2066}, {52, 52}}</string>
+			<string>{{2192, 2106}, {52, 52}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>6</integer>
 			<key>ImageID</key>
 			<integer>47</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10653,12 +11072,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103910</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2303.9999627872385, 2482.5}</string>
-				<string>{2527.9999627872385, 2482.5}</string>
+				<string>{2303.9999627872385, 2522.5}</string>
+				<string>{2527.9999627872385, 2522.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -10684,7 +11101,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2350.9999627872385, 2471}, {130, 56}}</string>
+			<string>{{2350.9999627872385, 2511}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10709,8 +11126,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103909</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10751,12 +11166,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103907</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 2433.5}</string>
-				<string>{2529.0000076293945, 2433.5}</string>
+				<string>{2305.0000076293945, 2473.5}</string>
+				<string>{2529.0000076293945, 2473.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -10782,7 +11195,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2422}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2462}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10807,8 +11220,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103906</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10849,12 +11260,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103905</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 2382.5}</string>
-				<string>{2529.0000076293945, 2382.5}</string>
+				<string>{2305.0000076293945, 2422.5}</string>
+				<string>{2529.0000076293945, 2422.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -10880,7 +11289,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2371}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2411}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -10905,8 +11314,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103904</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -10947,12 +11354,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103903</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 2329.5}</string>
-				<string>{2529.0000076293945, 2329.5}</string>
+				<string>{2305.0000076293945, 2369.5}</string>
+				<string>{2529.0000076293945, 2369.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -10978,7 +11383,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2318}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2358}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -11003,8 +11408,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103902</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -11045,12 +11448,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103901</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 2278.5}</string>
-				<string>{2529.0000076293945, 2278.5}</string>
+				<string>{2305.0000076293945, 2318.5}</string>
+				<string>{2529.0000076293945, 2318.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -11076,7 +11477,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2267}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2307}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -11101,8 +11502,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103900</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -11143,12 +11542,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103899</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2311.9999627872385, 2182}</string>
-				<string>{2535.9999627872385, 2182}</string>
+				<string>{2311.9999627872385, 2222}</string>
+				<string>{2535.9999627872385, 2222}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -11177,12 +11574,10 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<string>LineGraphic</string>
 			<key>ID</key>
 			<integer>103898</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Points</key>
 			<array>
-				<string>{2305.0000076293945, 2228.5}</string>
-				<string>{2529.0000076293945, 2228.5}</string>
+				<string>{2305.0000076293945, 2268.5}</string>
+				<string>{2529.0000076293945, 2268.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -11208,7 +11603,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2217}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2257}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -11233,8 +11628,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103897</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -11272,7 +11665,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2352.0000076293945, 2169}, {130, 56}}</string>
+			<string>{{2352.0000076293945, 2209}, {130, 56}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -11297,8 +11690,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103896</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -11336,13 +11727,11 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2297.9999627872385, 2177}, {248, 356}}</string>
+			<string>{{2297.9999627872385, 2217}, {248, 356}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103895</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -11375,15 +11764,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2492}, {16, 15}}</string>
+			<string>{{2528, 2532}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103894</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11414,15 +11801,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2490}, {57, 18}}</string>
+			<string>{{2418.5, 2530}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103893</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11453,15 +11838,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2443}, {16, 15}}</string>
+			<string>{{2528, 2483}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103892</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11492,15 +11875,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2441}, {57, 18}}</string>
+			<string>{{2418.5, 2481}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103891</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11531,15 +11912,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2391}, {16, 15}}</string>
+			<string>{{2528, 2431}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103890</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11570,15 +11949,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2389}, {57, 18}}</string>
+			<string>{{2418.5, 2429}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103889</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11609,15 +11986,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2343}, {16, 15}}</string>
+			<string>{{2528, 2383}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103888</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11648,15 +12023,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2341}, {57, 18}}</string>
+			<string>{{2418.5, 2381}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103887</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11687,15 +12060,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2295}, {16, 15}}</string>
+			<string>{{2528, 2335}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103886</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11726,15 +12097,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2293}, {57, 18}}</string>
+			<string>{{2418.5, 2333}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103885</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11765,15 +12134,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2247}, {16, 15}}</string>
+			<string>{{2528, 2287}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103884</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11804,15 +12171,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2245}, {57, 18}}</string>
+			<string>{{2418.5, 2285}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103883</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11843,15 +12208,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2528, 2197}, {16, 15}}</string>
+			<string>{{2528, 2237}, {16, 15}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103882</integer>
 			<key>ImageID</key>
 			<integer>20</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11882,15 +12245,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2418.5, 2195}, {57, 18}}</string>
+			<string>{{2418.5, 2235}, {57, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103881</integer>
 			<key>ImageID</key>
 			<integer>19</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.5</real>
 			<key>Shape</key>
@@ -11921,15 +12282,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 2521}, {300, 8}}</string>
+			<string>{{2278, 2561}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103880</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -11960,7 +12319,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2468}, {96, 47}}</string>
+			<string>{{2276, 2508}, {96, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -11985,8 +12344,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103879</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12030,15 +12387,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 2469}, {300, 8}}</string>
+			<string>{{2278, 2509}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103878</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12069,7 +12424,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2416}, {81, 47}}</string>
+			<string>{{2276, 2456}, {81, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12094,8 +12449,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103877</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12139,15 +12492,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2550, 2184.5999999999999}, {19.047618704699218, 360}}</string>
+			<string>{{2550, 2224.5999999999999}, {19.047618704699218, 360}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103876</integer>
 			<key>ImageID</key>
 			<integer>16</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12171,15 +12522,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2278, 2419}, {300, 8}}</string>
+			<string>{{2278, 2459}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103875</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12210,15 +12559,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2370}, {300, 8}}</string>
+			<string>{{2276, 2410}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103874</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12249,15 +12596,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2274, 2321}, {300, 8}}</string>
+			<string>{{2274, 2361}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103873</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12288,15 +12633,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2272, 2272}, {300, 8}}</string>
+			<string>{{2272, 2312}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103872</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12327,15 +12670,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2272, 2225}, {300, 8}}</string>
+			<string>{{2272, 2265}, {300, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103871</integer>
 			<key>ImageID</key>
 			<integer>15</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Opacity</key>
 			<real>0.39898991584777832</real>
 			<key>Shape</key>
@@ -12366,7 +12707,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2257, 2063}, {178, 41}}</string>
+			<string>{{2257, 2103}, {178, 41}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12393,8 +12734,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103870</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12437,7 +12776,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2366}, {93, 47}}</string>
+			<string>{{2276, 2406}, {93, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12462,8 +12801,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103869</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12507,7 +12844,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2318.5}, {73, 47}}</string>
+			<string>{{2276, 2358.5}, {73, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12532,8 +12869,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103868</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12577,7 +12912,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2272.5}, {114, 47}}</string>
+			<string>{{2276, 2312.5}, {114, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12602,8 +12937,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103867</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12647,7 +12980,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2222.5}, {74, 47}}</string>
+			<string>{{2276, 2262.5}, {74, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12672,8 +13005,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103866</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12717,7 +13048,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2276, 2172.5}, {54, 47}}</string>
+			<string>{{2276, 2212.5}, {54, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12742,8 +13073,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103865</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12787,7 +13116,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2354, 2120}, {130, 58}}</string>
+			<string>{{2354, 2160}, {130, 58}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -12812,8 +13141,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			</dict>
 			<key>ID</key>
 			<integer>103864</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12851,15 +13178,13 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2411, 2170}, {16, 8}}</string>
+			<string>{{2411, 2210}, {16, 8}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103863</integer>
 			<key>ImageID</key>
 			<integer>11</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12883,7 +13208,7 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2514, 2144}, {60, 30}}</string>
+			<string>{{2514, 2184}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -12904,8 +13229,6 @@ The context seems to make good sense, i.e. having the Group Delete button displa
 			<integer>103862</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12942,7 +13265,7 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2266, 2144}, {60, 30}}</string>
+			<string>{{2266, 2184}, {60, 30}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -12956,8 +13279,6 @@ Add Group}</string>
 			<integer>103861</integer>
 			<key>ImageID</key>
 			<integer>10</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -12993,15 +13314,13 @@ Add Group}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2254, 2104}, {330, 497}}</string>
+			<string>{{2254, 2144}, {330, 497}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>103860</integer>
 			<key>ImageID</key>
 			<integer>14</integer>
-			<key>IsLocked</key>
-			<string>YES</string>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -14170,18 +14489,18 @@ Done}</string>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBKwFChoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5
-				AJSEAWkEkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQ
-				TlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQHTlNB
-				cnJheQCUmQyShISECU5TVGV4dFRhYgCUhAJDZgAchpKE
-				n54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKEn54A
-				gagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKE
-				n54AgRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsx
-				Zl2DzcxMPYaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9y
-				AJSEAWMChARmZmZmg5eWFj+Dl5YWP4OXlhY/AYaShJaW
-				Bk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAA
-				ABQAAAD//k0AaQBzAG8ALQBCAG8AbABkAIQBZhahAKEB
-				oQChAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISE
-				B05TVmFsdWUAlIQBKoSEAWSpAIaGhg==
+				AJSEAWkEkoSWlgZOU0tlcm6GkoSEhAhOU051bWJlcgCE
+				hAdOU1ZhbHVlAJSEASqEhAFknQCGkoSWlhBOU1BhcmFn
+				cmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+				hARDQ0BTAACEhIQHTlNBcnJheQCUmQyShISECU5TVGV4
+				dFRhYgCUhAJDZgAchpKEpKIAOIaShKSiAFSGkoSkogBw
+				hpKEpKIAgYwAhpKEpKIAgagAhpKEpKIAgcQAhpKEpKIA
+				geAAhpKEpKIAgfwAhpKEpKIAgRgBhpKEpKIAgTQBhpKE
+				pKIAgVABhoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9u
+				dIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQAAAD/
+				/k0AaQBzAG8ALQBCAG8AbABkAIQBZhaEAWMApwGnAKcA
+				hpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcChARm
+				ZmZmg5eWFj+Dl5YWP4OXlhY/AYaGhg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -17802,18 +18121,18 @@ TAP}</string>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBKwFChoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5
-				AJSEAWkEkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQ
-				TlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQHTlNB
-				cnJheQCUmQyShISECU5TVGV4dFRhYgCUhAJDZgAchpKE
-				n54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKEn54A
-				gagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKE
-				n54AgRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsx
-				Zl2DzcxMPYaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9y
-				AJSEAWMChARmZmZmg5eWFj+Dl5YWP4OXlhY/AYaShJaW
-				Bk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAA
-				ABQAAAD//k0AaQBzAG8ALQBCAG8AbABkAIQBZhahAKEB
-				oQChAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISE
-				B05TVmFsdWUAlIQBKoSEAWSpAIaGhg==
+				AJSEAWkEkoSWlgZOU0tlcm6GkoSEhAhOU051bWJlcgCE
+				hAdOU1ZhbHVlAJSEASqEhAFknQCGkoSWlhBOU1BhcmFn
+				cmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+				hARDQ0BTAACEhIQHTlNBcnJheQCUmQyShISECU5TVGV4
+				dFRhYgCUhAJDZgAchpKEpKIAOIaShKSiAFSGkoSkogBw
+				hpKEpKIAgYwAhpKEpKIAgagAhpKEpKIAgcQAhpKEpKIA
+				geAAhpKEpKIAgfwAhpKEpKIAgRgBhpKEpKIAgTQBhpKE
+				pKIAgVABhoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9u
+				dIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQAAAD/
+				/k0AaQBzAG8ALQBCAG8AbABkAIQBZhaEAWMApwGnAKcA
+				hpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcChARm
+				ZmZmg5eWFj+Dl5YWP4OXlhY/AYaGhg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -18801,7 +19120,7 @@ Done}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{158, 738}, {340, 218}}</string>
+			<string>{{158, 868}, {340, 218}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -18864,7 +19183,7 @@ In Apple's standard iOS Contacts app, you can only delete a Contact after going 
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{158, 694}, {422, 63}}</string>
+			<string>{{158, 824}, {422, 63}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -18930,7 +19249,7 @@ In Apple's standard iOS Contacts app, you can only delete a Contact after going 
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{92, 712}, {56.685716408895722, 61.999999999999993}}</string>
+			<string>{{92, 842}, {56.685716408895722, 61.999999999999993}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -19394,103 +19713,6 @@ Deleting a Group is an irreversible action, and so it is one which you should de
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{2309.1428594783865, 830}, {336, 34}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>FitText</key>
-			<string>Vertical</string>
-			<key>Flow</key>
-			<string>Resize</string>
-			<key>FontInfo</key>
-			<dict>
-				<key>Color</key>
-				<dict>
-					<key>b</key>
-					<string>0.0980392</string>
-					<key>g</key>
-					<string>0.0980392</string>
-					<key>r</key>
-					<string>0.0980392</string>
-				</dict>
-				<key>Font</key>
-				<string>Miso-Bold</string>
-				<key>NSKern</key>
-				<real>0.0</real>
-				<key>Size</key>
-				<real>15</real>
-			</dict>
-			<key>ID</key>
-			<integer>102381</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-			<key>Text</key>
-			<dict>
-				<key>Align</key>
-				<integer>0</integer>
-				<key>Pad</key>
-				<integer>0</integer>
-				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Miso;}
-{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-360\pardirnatural
-
-\f0\i\fs30 \cf2 \expnd0\expndtw0\kerning0
-OTB - Zone - ISN - Manage Groups - Add and Remove Contacts.pdf}</string>
-				<key>VerticalPad</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{2255.1427717403494, 830}, {52.578945159912109, 54}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>3</integer>
-			<key>ImageID</key>
-			<integer>34</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
 			<string>{{2191.1428594783865, 236}, {52, 50.322580645161288}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -19801,18 +20023,18 @@ OTB - Zone - ISN - Manage Groups - Add and Remove Contacts.pdf}</string>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBKwFChoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5
-				AJSEAWkEkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQ
-				TlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQHTlNB
-				cnJheQCUmQyShISECU5TVGV4dFRhYgCUhAJDZgAchpKE
-				n54AOIaShJ+eAFSGkoSfngBwhpKEn54AgYwAhpKEn54A
-				gagAhpKEn54AgcQAhpKEn54AgeAAhpKEn54AgfwAhpKE
-				n54AgRgBhpKEn54AgTQBhpKEn54AgVABhoaBAAiEBFsx
-				Zl2DzcxMPYaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9y
-				AJSEAWMChARmZmZmg5eWFj+Dl5YWP4OXlhY/AYaShJaW
-				Bk5TRm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAA
-				ABQAAAD//k0AaQBzAG8ALQBCAG8AbABkAIQBZhahAKEB
-				oQChAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISE
-				B05TVmFsdWUAlIQBKoSEAWSpAIaGhg==
+				AJSEAWkEkoSWlgZOU0tlcm6GkoSEhAhOU051bWJlcgCE
+				hAdOU1ZhbHVlAJSEASqEhAFknQCGkoSWlhBOU1BhcmFn
+				cmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+				hARDQ0BTAACEhIQHTlNBcnJheQCUmQyShISECU5TVGV4
+				dFRhYgCUhAJDZgAchpKEpKIAOIaShKSiAFSGkoSkogBw
+				hpKEpKIAgYwAhpKEpKIAgagAhpKEpKIAgcQAhpKEpKIA
+				geAAhpKEpKIAgfwAhpKEpKIAgRgBhpKEpKIAgTQBhpKE
+				pKIAgVABhoaBAAiEBFsxZl2DzcxMPYaShJaWBk5TRm9u
+				dIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQAAAD/
+				/k0AaQBzAG8ALQBCAG8AbABkAIQBZhaEAWMApwGnAKcA
+				hpKElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlKcChARm
+				ZmZmg5eWFj+Dl5YWP4OXlhY/AYaGhg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -22711,9 +22933,10 @@ Scenarios}</string>
 	<key>HPages</key>
 	<integer>28</integer>
 	<key>ImageCounter</key>
-	<integer>50</integer>
+	<integer>52</integer>
 	<key>ImageLinkBack</key>
 	<array>
+		<dict/>
 		<dict/>
 		<dict/>
 		<dict/>
@@ -22742,6 +22965,8 @@ Scenarios}</string>
 	</array>
 	<key>ImageList</key>
 	<array>
+		<string>image51.pdf</string>
+		<string>image50.pdf</string>
 		<string>image49.pdf</string>
 		<string>image48.pdf</string>
 		<string>image47.pdf</string>
@@ -22750,7 +22975,6 @@ Scenarios}</string>
 		<string>image44.pdf</string>
 		<string>image43.pdf</string>
 		<string>image42.pdf</string>
-		<string>image34.pdf</string>
 		<string>image27.pdf</string>
 		<string>image26.pdf</string>
 		<string>image25.pdf</string>
@@ -22805,7 +23029,7 @@ Scenarios}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-02-08 10:28:22 +0000</string>
+	<string>2013-03-01 04:56:04 +0000</string>
 	<key>Modifier</key>
 	<string>Administrator</string>
 	<key>NotesVisible</key>
@@ -22897,7 +23121,7 @@ Scenarios}</string>
 		<key>OutlineWidth</key>
 		<integer>142</integer>
 		<key>RightSidebar</key>
-		<true/>
+		<false/>
 		<key>ShowRuler</key>
 		<true/>
 		<key>Sidebar</key>
@@ -22905,15 +23129,15 @@ Scenarios}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{116, 0}, {7052, 3412}}</string>
+		<string>{{0, 0}, {5647.4073076706054, 2527.4073627717871}}</string>
 		<key>Zoom</key>
-		<real>0.25</real>
+		<real>0.33750000596046448</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>0.25</real>
-				<real>0.5</real>
+				<real>0.33750000596046448</real>
+				<real>0.67500001192092896</real>
 			</array>
 		</array>
 	</dict>
